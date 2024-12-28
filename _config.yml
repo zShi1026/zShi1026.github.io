@@ -65,8 +65,8 @@ author:
   bio    : "First-year Master's Student in Geography at Texas A&M."
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
-      URL: ""
+      icon: "fab fa-fw fa-google-scholar"
+      URL: "https://scholar.google.com/citations?user=YOUR_USER_ID"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zShi1026"
