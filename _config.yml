@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Zhilin Shi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "First-year Geography Master's Student at Texas A&M."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
