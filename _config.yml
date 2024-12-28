@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #logo: "/assets/images/site_logo.png"
-#masthead_title: # my custom title
-title: Z. S.
+masthead_title: Z. S.
+title: Zhilin Shi
 email: zshi@tamu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
