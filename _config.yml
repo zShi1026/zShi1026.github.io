@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Zhilin Shi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "First-year Geography Master's Student at Texas A&M."
+  bio    : "First-year Master's Student in Geography at Texas A&M."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
