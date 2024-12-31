@@ -1,8 +1,5 @@
 ---
-layout: post
-title: "First Blog Post"
-date: 2024-12-28
-categories: blog
-tags: [jekyll, markdown]
+permalink: /research/
+title: "Research"
 ---
 This is my first blog post on Jekyll!
