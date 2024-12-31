@@ -1,3 +1,6 @@
 ---
-#####this will be my cv
+title: "CV"
+layout: CV
+permalink: /cv/
+author_profile: true
 ---
