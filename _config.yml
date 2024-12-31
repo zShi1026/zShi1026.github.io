@@ -15,17 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 #logo: "/assets/images/site_logo.png"
 
-excerpt: "Hello"
-header:
-  overlay_image: /assets/images/header_image.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "go go go"
-  actions:
-    - label: "More Info"
-      url: ""
-
-
-
 
 
 masthead_title: Z. S.
@@ -39,6 +28,16 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: "dirt"
 search: true
+
+excerpt: "This post should [...]"
+header:
+  overlay_image: /assets/images/header_image.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+
 
 # Build settings
 markdown: kramdown
