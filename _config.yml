@@ -14,6 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #logo: "/assets/images/site_logo.png"
+
+excerpt: "Hello"
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+
+
+
+
 masthead_title: Z. S.
 title: Zhilin Shi
 email: zshi@tamu.edu
