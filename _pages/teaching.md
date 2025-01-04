@@ -7,7 +7,7 @@ permalink: /teaching/
 During the 2023–2024 academic year, I served as a paraprofessional (teaching assistant) in the Department of Geology at Colorado College. My primary responsibilities included assisting students during lab sessions, managing field trip logistics, and grading tests and homework.
 
 
-
+Here is a list of courses that I assisted:
 
 | Course Title                           |
 |----------------------------------------|
