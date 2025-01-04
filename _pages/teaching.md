@@ -18,6 +18,12 @@ Here is a list of courses that I assisted:
 
 
 
-![Selfie with a snow bear!](/assets/teaching_photos/IMG_1430.jpeg "testing")
+![Selfie with a snow bear!](/assets/teaching_photos/IMG_1430.jpeg "selfie")
 
+![teaching1](/assets/teaching_photos/teaching1.jpeg "teaching1")
 
+![teaching2](/assets/teaching_photos/teaching2.jpeg "teaching2")
+
+![teaching3](/assets/teaching_photos/teaching3.jpeg "teaching3")
+
+![grocery](/assets/teaching_photos/grocery.jpeg "grocery")
