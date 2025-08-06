@@ -1,10 +1,11 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "Research Interests"
+    url: /research_interests/
   - title: "Research"
     url: /research/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
     url: /cv/
+
  

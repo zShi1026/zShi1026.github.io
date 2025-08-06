@@ -17,8 +17,10 @@
 
 
 
-masthead_title: Z. S.
+
+
 title: Zhilin Shi
+masthead_title: Zhilin Shi
 email: zshi@tamu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -29,17 +31,8 @@ github_username: username
 minimal_mistakes_skin: "dirt"
 search: true
 
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/header_image.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 
-
-# Build settings
+# Build settingss
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
@@ -51,17 +44,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -75,17 +57,27 @@ plugins:
 author:
   name   : "Zhilin Shi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "First-year Master's Student in Geography at Texas A&M."
+  bio    : |
+    **M.S. in Geography**, Texas A&M University (2024-2026)  
+    **B.A. in Geology**, Colorado College (2019-2023)
   links:
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
-      URL: "https://scholar.google.com/citations?user=YOUR_USER_ID"
-    - label: "GitHub"
+    - label: "Location"
+      icon: "fas fa-fw fa-globe"
+      url: "https://earth.google.com/web/search/texas+am+university+eller+oceanography+and+meterology+building/@30.6177159,-96.3366405,141.14081071a,894.04732432d,35y,98.38407618h,45t,0r/data=CqwBGn4SeAokMHg4NjQ2ODM5MGU0ZmMwNGU1OjB4OTJiYjBmNTlkMjA1ZjA1GR64FKEinj5AIZWAmISLFVjAKj50ZXhhcyBhbSB1bml2ZXJzaXR5IGVsbGVyIG9jZWFub2dyYXBoeSBhbmQgbWV0ZXJvbG9neSBidWlsZGluZxgCIAEiJgokCTg7bDHanj5AEVY851CWnD5AGYXsxfk1FVjAIUkKC4AUFljAQgIIAToDCgEwQgIIAEoNCP___________wEQAA"
+    - label: "zshi@tamu.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:zshi@tamu.edu"
+    - label: "zShi1026"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zShi1026"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zhilin-shi-5149191a3/"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=EClRuZwAAAAJ&hl=en"
+
+
 
 footer:
   links:
@@ -95,7 +87,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-      copyright: false
+  copyright: false
 
 defaults:
   # _posts
@@ -123,3 +115,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+collections:
+  research:
+    output: true
+    permalink: /projects/:name/

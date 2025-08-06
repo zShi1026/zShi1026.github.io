@@ -1,0 +1,135 @@
+.masthead__inner-wrap {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  min-height: 100px; 
+}
+
+.site-logo img {
+  height: 80px !important; 
+}
+
+.page__footer {
+  padding-top: 0.2rem !important;
+  padding-bottom: 0.2rem !important;
+}
+
+.page__footer .footer__content {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.page__footer {
+  font-size: 0.65rem !important;
+}
+
+.page__title {
+  font-size: 1.5rem; /* Default is ~2.25rem */
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; /* 移动端自适应 */
+}
+
+.footer-content {
+  flex: 1;
+}
+
+.footer-logo img {
+  height: 160px;  /* 可根据实际 logo 调整 */
+  max-width: 100%;
+}
+
+.page {
+  min-height: calc(107vh - 200px); /* 让页面内容至少填满视口，200px 是 header+footer 预估高度 */
+}
+
+
+
+.author__avatar img {
+  max-width: 400px;
+  border-radius: 0 !important;
+  height: auto;
+}
+
+.cards-wrapper {
+  width: 100vw;
+  max-width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  padding: 1rem 0;
+  background: transparent;
+  z-index: 1;
+}
+
+.card {
+  flex: 0 0 260px;
+  max-width: 260px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease;
+  justify-content: space-between;
+  margin: -0.5rem;
+}
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 0;
+  display: block;
+}
+.card-content {
+  padding: 0rem 0.75rem 0.75rem 0.75rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.card-content h3 {
+  font-size: 1rem;
+  color: #333;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+.card-content p {
+  font-size: 0.9rem;
+  color: #444;
+  margin-bottom: 0.5rem;
+}
+.card-button {
+  display: inline-block;
+  background: rgb(247, 163, 9);
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+}
+
+.page__content, .page, .layout--single .page__content {
+  max-width: 100vw !important;
+}
+
+.references-list {
+  font-size: 16px;
+  line-height: 1.6;
+}
