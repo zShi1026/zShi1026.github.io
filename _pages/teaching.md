@@ -12,7 +12,13 @@ classes: wide
 </div>
 
 
-I will be a Teaching Assistant in the **Department of Geography at Texas A&M** in the upcoming 2025-2026 academic year. Courses that I assist with are yet to be determined...
+I will be a Teaching Assistant in the **Department of Geography at Texas A&M** in the upcoming 2025-2026 academic year. Courses that I assist are listed here:
+
+
+|                                 Course Title                                            |                    Course Instructor                   | 
+|-----------------------------------------------------------------------------------------|--------------------------------------------------------|
+| GEOG450 **Field Geography**                                               | Dr. Charles Lafon                                       |
+| GEOG203 **Planet Earth**                                                         | Dr. Christy Jean 
 
 <div style="display: flex; justify-content: center;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
