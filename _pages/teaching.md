@@ -12,7 +12,7 @@ classes: wide
 </div>
 
 
-I will be a Teaching Assistant in the **Department of Geography at Texas A&M** in the upcoming 2025-2026 academic year. Courses that I assist are listed here:
+I will be a Teaching Assistant in the **Department of Geography at Texas A&M** in the upcoming 2025–2026 academic year. The courses I will assist with are listed here:
 
 
 |                                 Course Title                                            |                    Course Instructor                   | 
@@ -29,7 +29,7 @@ I will be a Teaching Assistant in the **Department of Geography at Texas A&M** i
 I was a paraprofessional in the **Department of Geology at Colorado College** during the 2023-2024 academic year. My primary responsibilities included assisting students during lab sessions, managing field trip logistics, and grading tests and homework.
 
 
-*Here is a list of courses that I assisted with:*
+*Here is a list of courses that I've assisted with:*
 
 |                                 Course Title                                            |                    Course Instructor                   | 
 |-----------------------------------------------------------------------------------------|--------------------------------------------------------|
